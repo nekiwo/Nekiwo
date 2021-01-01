@@ -16,7 +16,9 @@ I hope you will enjoy checking out my projects!
 ![](https://img.shields.io/badge/Language-Python-blue)
 ## 📘 Frameworks
 ![](https://img.shields.io/badge/Framework-React.js-blue)
+![](https://img.shields.io/badge/Framework-Node.js-blue)
 ![](https://img.shields.io/badge/Framework-Discord.js-blue)
+![](https://img.shields.io/badge/Framework-Express.js-blue)
 ![](https://img.shields.io/badge/Framework-Unity-blue)
 ![](https://img.shields.io/badge/Framework-Processing-blue)
 ![](https://img.shields.io/badge/Framework-P5.JS-blue)
