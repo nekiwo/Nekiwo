@@ -8,7 +8,7 @@ I hope you will enjoy checking out my projects!
 ## Projects I am working on
 - [OpenForums, an easy-to-impliment forums website you can use for your school or friend groups](https://github.com/Nekiwo/OpenForums)
 ## Languages I know
-![](https://img.shields.io/badge/Language-C#-blue)
+![](https://img.shields.io/badge/Language-Csharp-blue)
 ![](https://img.shields.io/badge/Language-C++-blue)
 ![](https://img.shields.io/badge/Language-C-blue)
 ![](https://img.shields.io/badge/Language-JavaScript-blue)
