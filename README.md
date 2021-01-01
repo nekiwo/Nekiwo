@@ -6,5 +6,8 @@ I hope you will enjoy checking out my projects!
 - [dino game clone on ATTINY85 and 128x32 screen](https://i.ibb.co/crjdNtD/ezgif-3-0ec488142282.gif)
 - not much suprisingly
 ## Projects I am working on
-- OpenForums, an easy-to-impliment forums website you can use for your school or friend groups
+- [OpenForums, an easy-to-impliment forums website you can use for your school or friend groups](https://github.com/Nekiwo/OpenForums)
 ## Stuff I definetly know
+
+## Follow me!
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Nekiwo?tab=followers)
