@@ -1,6 +1,6 @@
 (make cool banner here later)
 # 👋 Helo, I do cool stuff every day
-My nickname is Nekiwo, and I like to code
+My nickname is Nekiwo, and I like to code<br/>
 I hope you will enjoy checking out my projects!
 ## 📚 Projects I am proud of
 - [dino game clone on ATTINY85 and 128x32 screen](https://i.ibb.co/crjdNtD/ezgif-3-0ec488142282.gif)
