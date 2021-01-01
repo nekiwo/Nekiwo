@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Nekiwo/Nekiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(make cool banner here later)
+# I do cool stuff, almost every day
+My nickname is Nekiwo, and I like to code
+I hope you will enjoy checking out my projects!
+## Projects I am proud of
+- [dino game clone on ATTINY85 and 128x32 screen](https://i.ibb.co/crjdNtD/ezgif-3-0ec488142282.gif)
+- not much suprisingly
+## Projects I am working on
+- OpenForums, an easy-to-impliment forums website you can use for your school or friend groups
+## Stuff I definetly know
