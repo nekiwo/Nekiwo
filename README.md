@@ -1,6 +1,4 @@
-(make cool banner here later)
 # 👋 Helo, I do cool stuff every day
-My nickname is Nekiwo, and I like to code<br/>
 I hope you will enjoy checking out my projects!
 ## 💾 Stats
 [![Nekiwo's github stats](https://github-readme-stats.vercel.app/api?username=Nekiwo&count_private=true&show_icons=true&theme=radical)](#)
