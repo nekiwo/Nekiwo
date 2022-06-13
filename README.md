@@ -3,7 +3,7 @@ Although most projects are not available here, I hope you will enjoy checking ou
 ## 💾 Stats
 [![Nekiwo's github stats](https://github-readme-stats.vercel.app/api?username=Nekiwo&count_private=true&show_icons=true&theme=radical)](#)
 ## 📚 My last project
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Nekiwo&repo=DiscordCloudStorage&theme=radical)](#)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Nekiwo&repo=StonksCord&theme=radical)](#)
 ## 📘 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekiwo&theme=radical)](#)
 ## 💲 Donate ETH
