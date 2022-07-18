@@ -6,5 +6,3 @@ Although most projects are not available here, I hope you will enjoy checking ou
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=Nekiwo&repo=CommencementMap&theme=radical)](#)
 ## 📘 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekiwo&theme=radical)](#)
-## 💲 Donate ETH
-ETH: 0xBb1D35F4726c728870473E5Dbad19a8eEEd33c24
