@@ -1,4 +1,4 @@
-# 👋 Hello, I do cool stuff every day
+# 👋 Hello
 Check out some of my open source projects here
 ## 📚 Most Recent Project
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=Titan2022&repo=Titan-Processing&theme=radical)](#)
